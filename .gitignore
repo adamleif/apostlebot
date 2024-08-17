@@ -1,5 +1,6 @@
-# Virtual environment
-apostle_env
+# Additional files/folders (virtual environment, secret keys, etc.)
+venv/
+tokens.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
